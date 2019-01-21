@@ -1,8 +1,10 @@
 {
-  "pages":[
-    "pages/index/main"
+  "pages": [
+    "pages/index/main",
+    "pages/logs/main",
+    "pages/counter/main"
   ],
-  "window":{
+  "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "green",
     "navigationBarTitleText": "nihao",
